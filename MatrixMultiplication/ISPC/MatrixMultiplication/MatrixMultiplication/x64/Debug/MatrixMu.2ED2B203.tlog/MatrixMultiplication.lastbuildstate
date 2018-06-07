@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|x64|D:\文档\多核程序设计\18s.Multi-core\project1\MatrixMultiplication\ISPC\MatrixMultiplication\|

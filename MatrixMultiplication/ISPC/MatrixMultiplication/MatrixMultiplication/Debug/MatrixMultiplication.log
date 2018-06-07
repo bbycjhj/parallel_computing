@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(171,5): warning MSB8018: No outputs specified for item "MatrixMultiplication.ispc". Its custom build command will be skipped.
